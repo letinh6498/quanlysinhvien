@@ -1,0 +1,10 @@
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.exe.config
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.exe
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\bin\Debug\quan ly sinh vien.pdb
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.csprojAssemblyReference.cache
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan_ly_sinh_vien.Form1.resources
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan_ly_sinh_vien.Properties.Resources.resources
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.csproj.GenerateResource.cache
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.csproj.CoreCompileInputs.cache
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.exe
+E:\NET framework\quan ly sinh vien\quan ly sinh vien\obj\Debug\quan ly sinh vien.pdb
